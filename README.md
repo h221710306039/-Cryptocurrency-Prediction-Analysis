@@ -14,3 +14,6 @@ As of now, we have forecasted the prices for two stocks, and we plan to complete
 Although cryptocurrency prediction models can be helpful resources for traders and investors, there is always a chance of mistakes and inaccuracy. When making investment decisions, it's critical to consider a variety of data sources and to be aware of the limitations of any prediction model.
 
 We hope that our project provides insights into cryptocurrency price prediction models and helps to inform investment decisions.
+
+
+<i> To run the .ipynb notebook, you need to have Jupyter Notebook or JupyterLab installed on your local machine. Once you have installed it, simply navigate to the directory where the .ipynb notebook is located, and run the command jupyter notebook or jupyter lab in the terminal. This should open a web browser with the Jupyter Notebook interface, where you can open the .ipynb file and run the code cells. Alternatively, you can also use an online platform such as Google Colab to run the notebook without installing anything on your local machine.</i>
