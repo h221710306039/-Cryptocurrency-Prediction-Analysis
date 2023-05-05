@@ -6,10 +6,6 @@ This project aims to predict the price changes of various digital assets, such a
 ### Methodology
 We have used common methods to predict the market, including time-series analysis, machine learning, statistical analysis, and sentimental analysis. We obtained the dataset from Yahoo Finance and checked for anomalies, which were minimal compared to the data.
 
-So far, we have achieved forecasting future prices based on trends and patterns in the data using time series analysis. Additionally, we have used models such as Moving Average, ARIMA model, and Double Exponential Smoothing to train the model and forecast prices.
-
-As of now, we have forecasted the prices for two stocks, and we plan to complete the coding process in the next class. We will then work on technical analysis and visualization.
-
 ### Disclaimer
 Although cryptocurrency prediction models can be helpful resources for traders and investors, there is always a chance of mistakes and inaccuracy. When making investment decisions, it's critical to consider a variety of data sources and to be aware of the limitations of any prediction model.
 
